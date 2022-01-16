@@ -246,3 +246,31 @@ slithLogo.addEventListener("click", () => {
     volLore.style.display = "none";
   });
 });
+let reset = document.getElementById("reset");
+reset.addEventListener("click", () => {
+  grifLogo.style.marginLeft = "10px";
+  grifLore.style.display = "none";
+  ravenLogo.style.marginLeft = "10px";
+  ravenLore.style.display = "none";
+  huffleLogo.style.marginLeft = "10px";
+  huffleLore.style.display = "none";
+  slithLogo.style.marginLeft = "10px";
+  slithLore.style.display = "none";
+  harryLore.style.display = "none";
+  harry.style.display = "none";
+  dumbleLore.style.display = "none";
+  dumbledore.style.display = "none";
+  newt.style.display = "none";
+  newtLore.style.display = "none";
+  tonks.style.display = "none";
+  tonksLore.style.display = "none";
+  olivLore.style.display = "none";
+  olivander.style.display = "none";
+  lokLore.style.display = "none";
+  lokHart.style.display = "none";
+  snapeLore.style.display = "none";
+  snape.style.display = "none";
+  volLore.style.display = "none";
+  voldemort.style.display = "none";
+
+})
