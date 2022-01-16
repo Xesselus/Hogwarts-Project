@@ -216,3 +216,12 @@ body{
     font-size: 20px;
     width: 400px;
 }
+#reset{
+    background-color: aqua;
+    border: 2px double green;
+    border-radius: 45%;
+    width: 100px;
+    height: 50px;
+    margin-left: 960px;
+
+}
