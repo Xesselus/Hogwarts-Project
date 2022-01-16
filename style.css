@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image:url(./Assets/background.jpg) ;
+}
+.background{
+    width: 100%;
+    z-index: 0;
+    margin-top: -50px;
+    
+
+}
+
+.container{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    width: 500px;
+
+}
+.logo{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.lore{
+    width: 400px;
+}
+#grif{
+    z-index: 1;
+    width: 200px;
+    height: 200px;
+    border: 2px double red;
+    border-radius: 50%;
+    
+}
+#grif-lore{
+    color: darkred;
+    background-color: rgba(128, 128, 128, 0.774);
+    margin-left: 450px;
+    margin-top: -150px;
+    font-weight: 30px;
+    font-size: 20px;
+    width: 400px;
+}
+#raven{
+    z-index: 1;
+    width: 200px;
+    height: 200px;
+    border: 2px double blue;
+    border-radius: 50%;
+}
+#raven-lore{
+    color: darkblue;
+    background-color: rgba(128, 128, 128, 0.774);
+    margin-left: 450px;
+    margin-top: -150px;
+    font-weight: 30px;
+    font-size: 20px;
+    width: 400px;
+}
+
+#huffle{
+    z-index: 1;
+    width: 200px;
+    height: 200px;
+    border: 2px double gold;
+    border-radius: 50%;
+}
+#huffle-lore{
+    color: gold;
+    background-color: rgba(128, 128, 128, 0.774);
+    margin-left: 450px;
+    margin-top: -150px;
+    font-weight: 30px;
+    font-size: 20px;
+    width: 400px;
+}
+#slith{
+    z-index: 1;
+    width: 200px;
+    height: 200px;
+    border: 2px double green;
+    border-radius: 50%;
+}
+#slith-lore{
+    color: darkgreen;
+    background-color: rgba(128, 128, 128, 0.774);
+    margin-left: 450px;
+    margin-top: -150px;
+    font-weight: 30px;
+    font-size: 20px;
+    width: 400px;
+}
+#dumbledore{
+    width: 150px;
+    height: 150px;
+    border: 2px double red;
+    border-radius: 50%;
+   
+}
+#dumble-lore{
+    color: darkred;
+    background-color: rgba(128, 128, 128, 0.774);
+    margin-left: 450px;
+    margin-top: -150px;
+    font-weight: 30px;
+    font-size: 20px;
+    width: 400px;
+}
+#harry{
+    width: 150px;
+    height: 150px;
+    border: 2px double red;
+    border-radius: 50%;
+}
+#harry-lore{
+    color: darkred;
+    background-color: rgba(128, 128, 128, 0.774);
+    margin-left: 450px;
+    margin-top: -150px;
+    font-weight: 30px;
+    font-size: 20px;
+    width: 400px;
+}
+#olivander{
+    width: 150px;
+    height: 150px;
+    border: 2px double blue;
+    border-radius: 50%;
+}
+#olivander-lore{
+    color: blue;
+    background-color: rgba(128, 128, 128, 0.774);
+    margin-left: 450px;
+    margin-top: -150px;
+    font-weight: 30px;
+    font-size: 20px;
+    width: 400px;
+}
+#lockhart{
+    width: 150px;
+    height: 150px;
+    border: 2px double blue;
+    border-radius: 50%;
+}
+#lock-lore{
+    color: blue;
+    background-color: rgba(128, 128, 128, 0.774);
+    margin-left: 450px;
+    margin-top: -150px;
+    font-weight: 30px;
+    font-size: 20px;
+    width: 400px;
+}
+#tonks{
+    width: 150px;
+    height: 150px;
+    border: 2px double gold;
+    border-radius: 50%;
+}
+#tonks-lore{
+    color: gold;
+    background-color: rgba(128, 128, 128, 0.774);
+    margin-left: 450px;
+    margin-top: -150px;
+    font-weight: 30px;
+    font-size: 20px;
+    width: 400px;
+}
+#newt{
+    width: 150px;
+    height: 150px;
+    border: 2px double gold;
+    border-radius: 50%;
+}
+#newt-lore{
+    color: gold;
+    background-color: rgba(128, 128, 128, 0.774);
+    margin-left: 450px;
+    margin-top: -150px;
+    font-weight: 30px;
+    font-size: 20px;
+    width: 400px;
+}
+#voldemort{
+    width: 150px;
+    height: 150px;
+    border: 2px double green;
+    border-radius: 50%;
+}
+#voldemort-lore{
+    color: green;
+    background-color: rgba(19, 17, 17, 0.733);
+    margin-left: 450px;
+    margin-top: -150px;
+    font-weight: 30px;
+    font-size: 20px;
+    width: 400px;
+}
+#snape{
+    width: 150px;
+    height: 150px;
+    border: 2px double green;
+    border-radius: 50%;
+}
+#snape-lore{
+    color: green;
+    background-color: rgba(19, 17, 17, 0.733);
+    margin-left: 450px;
+    margin-top: -150px;
+    font-weight: 30px;
+    font-size: 20px;
+    width: 400px;
+}
